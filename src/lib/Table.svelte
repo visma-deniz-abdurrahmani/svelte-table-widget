@@ -112,5 +112,9 @@ import TableCell from "./TableCell.svelte";
     font-weight: 600;
     color: #6a6c6d;
     user-select: none;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
 </style>
